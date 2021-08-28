@@ -1,0 +1,589 @@
+,price,barrio,superficie_construida,n_habitaciones,n_baños,lujo,dist_metro,piscina,planta_edificio,prediccion_modelo,gap,garaje,terraza,es_chalet,zonas_verdes,es_exterior
+162,2200000,Recoletos,220,2,3,Yes,Yes,No,3,3970000,1770000,Yes,No,No,No,Yes
+151,2215000,Goya,302,4,4,Yes,Yes,No,2,3978448,1763448,No,No,No,No,Yes
+3125,1600000,Argüelles,360,5,5,Yes,Yes,Yes,4,3100000,1500000,Yes,Yes,No,No,Yes
+348,2600000,Recoletos,350,6,3,No,Yes,No,3,3950000,1350000,No,No,No,No,Yes
+6980,1750000,El Plantío,1000,7,6,Yes,No,Yes,0,3100000,1350000,Yes,Yes,Yes,Yes,No
+322,1190000,Lista,165,4,2,No,Yes,No,5,2265000,1075000,Yes,No,No,No,Yes
+423,1550000,Recoletos,210,3,4,Yes,Yes,No,1,2600000,1050000,Yes,No,No,No,Yes
+522,1150000,Recoletos,127,2,2,No,Yes,No,5,2198000,1048000,No,No,No,No,No
+307,1190000,Goya,171,4,3,Yes,Yes,No,6,2200000,1010000,No,No,No,No,Yes
+569,1650000,El Viso,260,8,4,Yes,Yes,No,0,2617407,967407,Yes,Yes,Yes,No,No
+1002,990800,Vallehermoso,132,2,2,Yes,Yes,Yes,0,1950000,959200,Yes,Yes,No,No,Yes
+3078,1037700,Argüelles,111,2,2,Yes,Yes,Yes,8,1995000,957300,No,Yes,No,No,Yes
+3266,1850000,Jerónimos,247,2,2,No,Yes,Yes,3,2800000,950000,Yes,Yes,No,No,Yes
+278,1350000,Recoletos,215,4,3,Yes,Yes,No,1,2291900,941900,Yes,Yes,No,No,Yes
+1839,940000,Universidad,166,5,5,Yes,Yes,No,1,1850000,910000,No,No,No,No,Yes
+516,1590000,Recoletos,153,3,2,Yes,Yes,No,4,2500000,910000,No,No,No,No,Yes
+11005,980000,San Juan Bautista,157,3,2,Yes,Yes,Yes,8,1850000,870000,Yes,Yes,No,No,Yes
+2615,870000,Goya,126,3,2,Yes,Yes,No,6,1700000,830000,Yes,Yes,No,No,Yes
+4927,1500000,Jerónimos,148,2,2,Yes,Yes,No,1,2290500,790500,No,No,No,No,Yes
+2704,795000,Castellana,120,3,2,Yes,Yes,No,3,1585000,790000,No,Yes,No,No,Yes
+2272,1095000,Lista,224,5,3,No,Yes,No,4,1875000,780000,No,Yes,No,No,Yes
+1205,1200000,Universidad,204,4,3,No,Yes,No,3,1975000,775000,Yes,No,No,No,Yes
+280,2200000,Recoletos,247,3,3,Yes,Yes,No,3,2975000,775000,No,No,No,No,Yes
+1371,829000,Universidad,123,2,2,Yes,Yes,No,1,1600000,771000,No,No,No,No,Yes
+2942,1100000,Estrella,222,4,4,No,Yes,No,0,1850000,750000,No,No,No,No,No
+2265,930000,Castellana,136,3,3,Yes,Yes,No,2,1680000,750000,No,No,No,No,Yes
+1686,2100000,Justicia,180,4,4,No,Yes,No,1,2800000,700000,No,No,No,No,Yes
+1410,900000,Universidad,174,4,4,Yes,Yes,No,1,1600000,700000,No,No,No,No,Yes
+1304,1275000,Justicia,175,3,3,No,Yes,No,3,1970000,695000,No,No,No,No,Yes
+2583,1520000,Goya,110,2,2,No,Yes,Yes,0,2200000,680000,No,Yes,No,No,Yes
+816,1030000,Vallehermoso,234,5,3,No,Yes,No,4,1690000,660000,No,Yes,No,No,Yes
+7175,1135200,Aravaca,192,4,4,Yes,No,No,2,1790000,654800,Yes,Yes,No,No,Yes
+124,1550000,Recoletos,211,3,3,Yes,Yes,No,1,2200000,650000,No,No,No,No,Yes
+1760,650000,Universidad,127,3,2,Yes,Yes,No,1,1300000,650000,No,No,No,No,Yes
+1199,840000,Justicia,94,3,2,No,Yes,No,4,1460000,620000,No,No,No,No,No
+6243,990000,Cuatro Caminos,362,6,4,No,Yes,No,3,1596667,606667,Yes,No,No,No,Yes
+3236,780000,Ibiza,147,3,2,Yes,Yes,No,6,1384000,604000,No,Yes,No,No,Yes
+546,790000,El Viso,95,2,2,Yes,Yes,No,2,1390000,600000,No,No,No,No,Yes
+519,1550000,Goya,230,3,3,Yes,Yes,No,1,2150000,600000,No,No,No,No,Yes
+7010,1850000,Valdemarín,336,4,5,Yes,No,Yes,0,2440000,590000,Yes,Yes,Yes,Yes,No
+1434,615000,Sol,151,2,2,No,Yes,No,2,1180000,565000,No,No,No,No,Yes
+1302,750000,Universidad,129,3,2,Yes,Yes,No,1,1315000,565000,No,No,No,No,Yes
+397,1350000,Recoletos,130,2,2,No,Yes,No,6,1900000,550000,No,Yes,No,No,No
+7080,730000,Casa de Campo,225,5,4,No,No,No,0,1275000,545000,Yes,Yes,Yes,Yes,No
+2743,1519000,Castellana,250,4,3,No,Yes,No,4,2055000,536000,Yes,No,No,No,Yes
+4359,715000,Embajadores,166,4,2,Yes,Yes,No,1,1250000,535000,No,No,No,No,Yes
+194,1150000,Recoletos,128,2,2,Yes,Yes,No,3,1674444,524444,Yes,No,No,No,Yes
+2995,1320000,Casa de Campo,245,5,3,No,No,No,0,1840000,520000,Yes,No,Yes,Yes,No
+297,3450000,Recoletos,251,3,4,Yes,Yes,No,4,3970000,520000,No,No,No,No,Yes
+736,750000,El Viso,97,1,1,Yes,Yes,Yes,1,1270000,520000,No,Yes,No,No,Yes
+2236,785000,Palacio,178,2,2,Yes,Yes,No,3,1300000,515000,Yes,No,No,No,Yes
+797,740000,El Viso,129,4,2,No,Yes,No,3,1254000,514000,No,No,No,No,Yes
+7059,890000,Valdemarín,159,4,3,Yes,No,Yes,1,1400000,510000,Yes,Yes,No,No,Yes
+578,640000,Prosperidad,133,3,2,Yes,Yes,No,4,1148900,508900,No,Yes,No,No,Yes
+3526,695000,Goya,112,2,2,No,Yes,No,3,1178000,483000,No,No,No,No,Yes
+394,1475000,Recoletos,190,4,3,Yes,Yes,No,2,1950000,475000,No,Yes,No,No,Yes
+3240,1100000,Goya,130,2,3,Yes,Yes,No,5,1575000,475000,Yes,No,No,No,Yes
+1103,1830000,Almagro,288,5,4,No,Yes,No,4,2300000,470000,No,Yes,No,No,Yes
+31,800000,Goya,155,3,3,Yes,Yes,No,3,1270000,470000,No,No,No,No,Yes
+1475,730000,Justicia,86,1,1,No,Yes,No,5,1195000,465000,No,No,No,No,Yes
+650,1498000,El Viso,184,4,4,Yes,Yes,No,6,1950000,452000,Yes,Yes,No,No,Yes
+2718,1390000,Castellana,241,3,3,Yes,Yes,No,1,1840000,450000,No,No,No,No,Yes
+6259,650000,Cuatro Caminos,136,4,3,Yes,Yes,No,1,1100000,450000,No,No,No,No,Yes
+941,1080000,Vallehermoso,237,3,3,Yes,Yes,No,3,1491000,411000,No,Yes,No,No,Yes
+2915,460000,Estrella,130,4,2,No,Yes,No,4,862667,402667,No,Yes,No,No,Yes
+1502,1150000,Universidad,182,4,3,No,Yes,No,1,1550000,400000,No,No,No,No,Yes
+1030,1900000,Almagro,288,6,4,No,Yes,No,4,2300000,400000,Yes,No,No,No,No
+894,470000,Ríos Rosas,89,4,1,No,Yes,No,0,866698,396698,No,No,No,No,No
+1796,485000,Universidad,78,1,1,Yes,Yes,No,3,880247,395247,No,No,No,No,Yes
+4752,464000,Sol,120,2,2,No,Yes,No,5,849002,385002,No,No,No,No,Yes
+3017,895000,Argüelles,194,4,2,No,Yes,No,4,1280000,385000,No,No,No,No,Yes
+3285,1137700,Goya,162,3,2,Yes,Yes,No,2,1520000,382300,No,No,No,No,Yes
+1179,1150000,Universidad,182,4,3,No,Yes,No,1,1525000,375000,No,No,No,No,Yes
+11817,395000,Valverde,94,2,2,No,Yes,No,1,769631,374631,Yes,No,No,No,Yes
+4352,500000,Cortes,120,3,2,No,Yes,No,1,874465,374465,No,Yes,No,No,Yes
+4034,2030000,Almagro,250,3,4,No,Yes,No,2,2400000,370000,No,No,No,No,Yes
+1112,550000,Ríos Rosas,143,5,2,No,Yes,No,1,910159,360159,Yes,No,No,No,No
+4704,1320000,Sol,150,2,2,Yes,Yes,No,6,1680000,360000,No,Yes,No,No,Yes
+4781,890000,Universidad,165,4,3,Yes,Yes,No,5,1250000,360000,No,No,No,No,Yes
+3504,525000,Goya,89,3,2,No,Yes,No,1,883021,358021,No,No,No,No,Yes
+1027,399000,Ríos Rosas,72,2,2,No,Yes,No,0,756401,357401,No,Yes,No,No,No
+25,415000,Justicia,52,1,1,No,Yes,No,3,768420,353420,No,No,No,No,Yes
+3730,899000,Almagro,166,3,2,Yes,Yes,No,3,1250000,351000,No,No,No,No,Yes
+3525,395000,Goya,50,2,2,No,Yes,No,3,745252,350252,No,No,No,No,No
+203,800000,Goya,101,2,2,Yes,Yes,No,3,1150000,350000,Yes,No,No,No,Yes
+2014,870000,Palacio,164,3,2,Yes,Yes,No,4,1220000,350000,No,No,No,No,Yes
+2831,830000,Pacífico,242,6,4,Yes,Yes,Yes,4,1180000,350000,Yes,No,No,No,Yes
+1131,440000,Ríos Rosas,53,2,2,No,Yes,No,5,779795,339795,No,Yes,No,No,Yes
+1440,670000,Universidad,176,4,3,No,Yes,No,1,1008580,338580,Yes,No,No,No,Yes
+1904,419500,Palacio,58,2,2,No,Yes,No,4,749657,330157,No,No,No,No,No
+7179,950000,Valdemarín,215,5,3,Yes,No,No,1,1280000,330000,Yes,Yes,No,No,Yes
+2514,825000,Castellana,116,3,2,Yes,Yes,No,3,1148500,323500,No,No,No,No,Yes
+2565,570000,Lista,145,4,2,No,Yes,No,5,886706,316706,No,Yes,No,No,No
+4024,350000,Almagro,70,2,1,No,Yes,No,0,659799,309799,No,No,No,No,No
+2960,487000,Adelfas,65,1,1,Yes,Yes,Yes,7,795437,308437,Yes,Yes,No,No,Yes
+6234,795000,Cuatro Caminos,181,5,3,No,Yes,No,4,1100000,305000,Yes,No,No,No,Yes
+4720,440000,Palacio,75,1,1,No,Yes,No,4,742402,302402,No,No,No,No,No
+2255,1495000,El Viso,230,3,4,Yes,Yes,No,0,1797338,302338,No,Yes,No,No,Yes
+13,850000,Recoletos,102,2,2,No,Yes,No,4,1150000,300000,Yes,Yes,No,No,No
+2865,598000,Pacífico,125,3,2,Yes,Yes,Yes,2,896534,298534,Yes,No,No,No,Yes
+2886,485000,Adelfas,103,3,2,Yes,Yes,Yes,4,782871,297871,No,No,No,No,Yes
+10735,325100,Alameda de Osuna,127,4,2,No,Yes,No,1,622537,297437,No,Yes,No,No,Yes
+2566,435000,Lista,55,2,2,No,Yes,No,1,730668,295668,No,No,No,No,No
+3979,430000,Trafalgar,122,3,2,No,Yes,No,0,724611,294611,No,No,No,No,Yes
+3158,370000,Universidad,76,3,2,No,Yes,No,5,661289,291289,No,No,No,No,No
+2982,298500,Pacífico,47,1,1,No,Yes,No,0,589304,290804,No,Yes,No,No,Yes
+1726,297000,Universidad,56,1,1,No,Yes,No,0,582723,285723,No,No,No,No,No
+2038,295000,Las Acacias,85,2,2,No,Yes,No,-1,578191,283191,No,No,No,No,No
+3272,480000,Ibiza,118,2,2,No,Yes,No,1,763104,283104,No,No,No,No,No
+4678,495000,Sol,150,4,2,No,Yes,No,1,775512,280512,No,No,No,No,Yes
+10761,420700,Timón,111,3,2,No,Yes,Yes,2,700155,279455,Yes,Yes,No,No,Yes
+4306,640000,Embajadores,125,3,2,Yes,Yes,No,7,916693,276693,No,Yes,No,No,Yes
+4684,399000,Sol,53,1,1,No,Yes,No,2,669025,270025,No,No,No,No,No
+2436,398000,Castellana,80,2,2,No,Yes,No,0,664798,266798,No,Yes,No,No,No
+3066,345000,Argüelles,70,3,1,No,Yes,No,4,608041,263041,No,No,No,No,Yes
+1441,490000,Universidad,100,2,2,No,Yes,No,-1,752500,262500,No,No,No,No,Yes
+10776,420700,Timón,138,3,2,No,Yes,Yes,2,681937,261237,No,No,No,No,No
+2951,456490,Niño Jesús,103,2,2,Yes,Yes,No,6,705668,249178,No,No,No,No,Yes
+11976,309700,Casco Histórico de Vallecas,103,3,2,No,Yes,Yes,0,556055,246355,Yes,No,No,No,Yes
+4461,259000,Sol,77,3,1,No,Yes,No,1,502187,243187,No,No,No,No,No
+4765,390000,Palacio,90,4,2,No,Yes,No,2,632198,242198,No,No,No,No,No
+1236,470000,Universidad,133,2,1,No,Yes,No,3,710321,240321,No,No,No,No,Yes
+4809,350000,Palacio,76,1,1,No,Yes,No,3,588886,238886,No,No,No,No,Yes
+4616,339900,Embajadores,83,1,1,No,Yes,No,3,577918,238018,No,No,No,No,Yes
+11499,384940,Las Acacias,78,3,1,No,Yes,No,4,620017,235077,No,No,No,No,Yes
+879,398000,Ríos Rosas,89,1,1,No,Yes,No,3,632869,234869,No,No,No,No,Yes
+3221,870000,Argüelles,194,3,3,No,Yes,No,1,1100000,230000,No,No,No,No,No
+3133,1250000,Casa de Campo,291,4,2,No,Yes,No,1,1480000,230000,Yes,No,No,No,Yes
+10935,289000,Canillas,119,3,1,No,Yes,No,2,518216,229216,No,No,No,No,Yes
+2396,269000,Goya,35,2,1,No,Yes,No,7,497565,228565,No,No,No,No,No
+10705,246000,Casco Histórico de Barajas,64,2,2,No,Yes,No,2,472393,226393,No,No,No,No,Yes
+5007,330000,Cortes,65,2,1,No,Yes,No,1,555614,225614,No,No,No,No,Yes
+4233,269000,Lucero,81,4,2,No,Yes,No,4,490391,221391,No,No,No,No,Yes
+1063,695000,Vallehermoso,110,2,2,Yes,Yes,No,10,912960,217960,No,Yes,No,No,Yes
+4744,375000,Palacio,68,2,1,No,Yes,No,4,589194,214194,No,No,No,No,Yes
+5472,398000,Hispanoamérica,87,2,1,No,Yes,No,4,611045,213045,Yes,No,No,No,No
+10747,565000,Corralejos,105,3,2,Yes,No,Yes,3,777614,212614,Yes,Yes,No,No,Yes
+6039,219000,Comillas,73,2,1,No,Yes,No,1,430169,211169,No,No,No,No,No
+2050,289900,Imperial,61,1,1,No,Yes,No,2,499086,209186,No,Yes,No,No,No
+4491,574000,Embajadores,138,5,2,No,Yes,No,1,778877,204877,No,No,No,No,No
+4253,410000,Cortes,77,3,2,No,Yes,No,5,613353,203353,No,No,No,No,Yes
+4046,650000,Trafalgar,128,3,3,Yes,Yes,No,1,852607,202607,No,Yes,No,No,Yes
+4721,298000,Sol,40,1,1,No,Yes,No,3,498523,200523,No,No,No,No,Yes
+1317,560000,Justicia,60,1,1,Yes,Yes,No,5,759515,199515,No,No,No,No,Yes
+11422,315000,La Chopera,73,2,1,No,Yes,No,3,512695,197695,No,Yes,No,No,Yes
+5778,204000,Pueblo Nuevo,80,2,1,No,Yes,No,3,396396,192396,No,Yes,No,No,Yes
+11866,310000,Valdefuentes,131,2,1,No,No,Yes,10,497595,187595,Yes,Yes,No,No,No
+4362,650000,Palacio,142,4,2,Yes,Yes,No,4,837566,187566,No,No,No,No,Yes
+4573,415000,Embajadores,91,3,1,No,Yes,No,1,601458,186458,No,No,No,No,Yes
+5110,221000,Universidad,50,1,1,No,Yes,No,0,405253,184253,No,No,No,No,Yes
+11902,282500,Valdefuentes,43,1,1,No,Yes,Yes,16,466598,184098,Yes,No,No,No,Yes
+3489,310000,Fuente del Berro,63,2,1,No,Yes,No,0,492807,182807,No,No,No,No,Yes
+2164,669000,Palacio,212,3,2,No,Yes,No,1,851625,182625,No,No,No,No,Yes
+3712,210000,Almagro,51,2,1,No,Yes,No,2,391585,181585,No,No,No,No,No
+6794,199000,Canillejas,101,3,1,No,Yes,No,4,380241,181241,No,Yes,No,No,No
+11074,228000,Colina,43,0,1,No,Yes,Yes,1,408964,180964,Yes,Yes,No,No,Yes
+2610,435000,Castellana,52,2,2,No,Yes,No,1,615527,180527,No,No,No,No,No
+11041,1370000,Piovera,385,5,4,Yes,No,Yes,0,1550000,180000,Yes,Yes,Yes,Yes,No
+4347,525000,Sol,91,3,1,No,Yes,No,2,702972,177972,No,No,No,No,Yes
+5500,264000,Pueblo Nuevo,105,3,1,No,Yes,No,1,441508,177508,No,Yes,No,No,Yes
+1755,221000,Universidad,57,1,1,No,Yes,No,0,397972,176972,No,No,No,No,Yes
+4437,218500,Embajadores,53,1,1,No,Yes,No,0,394761,176261,No,No,No,No,No
+3320,395000,Goya,50,2,2,No,Yes,No,3,570478,175478,No,No,No,No,No
+766,215000,Prosperidad,54,0,1,No,Yes,No,-1,389687,174687,No,Yes,No,No,Yes
+4436,275000,Atocha,65,2,1,No,Yes,No,1,448724,173724,No,No,No,No,No
+4424,195000,Embajadores,40,1,1,No,Yes,No,1,368641,173641,No,No,No,No,Yes
+11677,365000,Aluche,125,3,2,No,Yes,No,13,536048,171048,Yes,No,No,No,Yes
+11407,350000,Delicias,111,3,2,No,Yes,No,4,517947,167947,No,No,No,No,Yes
+2979,420000,Pacífico,96,2,2,No,Yes,Yes,3,587049,167049,Yes,Yes,No,No,Yes
+870,345000,Ríos Rosas,88,4,2,No,Yes,No,1,510776,165776,No,No,No,No,Yes
+9564,205000,Peña Grande,74,2,1,No,Yes,No,0,370407,165407,No,No,No,No,Yes
+8926,205000,Casco Histórico de Vicálvaro,85,3,1,No,Yes,No,0,369464,164464,Yes,Yes,No,No,Yes
+11394,175000,Palos de Moguer,41,1,1,No,Yes,No,3,339039,164039,No,No,No,No,No
+11347,165000,La Chopera,41,2,1,No,Yes,No,3,328815,163815,No,No,No,No,No
+10719,227000,Aeropuerto,55,1,1,No,Yes,Yes,0,390129,163129,Yes,No,No,No,Yes
+5975,282000,Comillas,98,3,1,No,Yes,No,3,445089,163089,No,No,No,No,Yes
+1655,390000,Sol,86,1,1,No,Yes,No,3,552796,162796,No,No,No,No,Yes
+9746,750000,El Viso,154,3,2,No,Yes,No,2,912354,162354,Yes,No,No,No,Yes
+4611,169000,Embajadores,40,1,1,No,Yes,No,3,331269,162269,No,No,No,No,No
+5335,450000,Hispanoamérica,96,2,2,No,Yes,No,3,611369,161369,Yes,Yes,No,No,No
+959,633100,Gaztambide,100,2,2,Yes,Yes,No,2,790784,157684,No,No,No,No,Yes
+4438,360000,Sol,51,1,1,No,Yes,No,2,516556,156556,No,No,No,No,Yes
+2264,740000,Castellana,102,2,2,Yes,Yes,No,2,896242,156242,No,No,No,No,Yes
+1055,555490,Vallehermoso,87,2,2,Yes,Yes,No,2,710271,154781,No,Yes,No,No,Yes
+8716,279000,Palomeras Sureste,103,3,2,No,Yes,Yes,2,430622,151622,Yes,Yes,No,No,Yes
+11493,210000,Palos de Moguer,47,1,1,No,Yes,No,4,361120,151120,No,No,No,No,No
+7078,1400000,Ciudad Universitaria,305,5,4,Yes,No,Yes,3,1550000,150000,Yes,No,No,No,Yes
+11313,299000,Delicias,72,1,1,No,Yes,Yes,5,446290,147290,No,No,No,No,Yes
+4909,259000,Cortes,45,1,1,No,Yes,No,1,405914,146914,No,No,No,No,No
+1908,215000,Imperial,65,3,1,No,Yes,No,2,361705,146705,No,No,No,No,Yes
+2057,163000,Embajadores,34,1,1,No,Yes,No,1,309453,146453,No,No,No,No,Yes
+3835,460000,Trafalgar,93,2,1,Yes,Yes,No,2,604453,144453,No,Yes,No,No,Yes
+12014,185500,Casco Histórico de Vallecas,54,1,1,No,Yes,No,0,329851,144351,No,No,No,No,No
+2061,265900,Embajadores,51,2,1,No,Yes,No,2,410127,144227,No,No,No,No,No
+6334,439000,Castillejos,118,3,1,No,Yes,No,1,582377,143377,No,No,No,No,Yes
+5627,175000,Ventas,68,3,1,No,Yes,No,3,317955,142955,No,No,No,No,Yes
+3079,483700,Argüelles,56,1,1,Yes,Yes,Yes,5,625602,141902,No,Yes,No,No,Yes
+4080,169000,Puerta del Ángel,71,2,1,No,Yes,No,0,310830,141830,No,No,No,No,Yes
+1005,688740,Gaztambide,117,2,2,No,Yes,No,1,830066,141326,Yes,No,No,No,Yes
+2323,640000,Goya,58,1,1,No,Yes,Yes,0,781089,141089,No,Yes,No,No,Yes
+8580,195000,Media Legua,79,3,1,No,Yes,No,3,335971,140971,Yes,No,No,No,Yes
+2645,1890000,Castellana,326,5,4,No,Yes,No,1,2030000,140000,Yes,Yes,No,No,Yes
+2676,1150000,Castellana,192,4,2,No,Yes,No,4,1290000,140000,Yes,Yes,No,No,No
+2140,447000,Embajadores,108,2,2,No,Yes,No,2,586882,139882,No,Yes,No,No,Yes
+5527,169900,Ventas,68,2,1,No,Yes,No,1,308957,139057,No,Yes,No,No,Yes
+4114,230000,Los Cármenes,58,1,1,No,Yes,No,3,368842,138842,No,Yes,No,No,Yes
+1935,269900,Embajadores,51,2,1,No,Yes,No,2,407711,137811,No,No,No,No,No
+10264,187000,Bellas Vistas,45,1,1,No,Yes,No,0,324262,137262,No,No,No,No,No
+9024,260000,Pinar del Rey,86,3,1,No,Yes,No,2,396100,136100,No,No,No,No,Yes
+6083,339000,Moscardó,118,3,2,No,Yes,No,2,474602,135602,No,No,No,No,Yes
+6985,1450000,El Plantío,326,5,5,Yes,No,Yes,0,1585000,135000,Yes,Yes,Yes,Yes,No
+2542,745000,El Viso,120,3,2,Yes,Yes,No,3,878709,133709,No,Yes,No,No,Yes
+6144,255000,Opañel,103,3,2,No,Yes,No,11,388415,133415,No,Yes,No,No,No
+11668,157000,Los Cármenes,95,3,1,No,Yes,No,3,290213,133213,No,Yes,No,No,Yes
+5615,158000,Pueblo Nuevo,70,3,1,No,Yes,No,1,290981,132981,No,No,No,No,Yes
+8696,225000,Casco Histórico de Vallecas,132,3,1,No,Yes,No,2,357944,132944,No,Yes,No,No,Yes
+6023,199000,San Isidro,80,3,2,No,Yes,No,3,331499,132499,No,Yes,No,No,Yes
+10454,174000,Los Ángeles,105,4,2,No,Yes,No,4,305853,131853,No,Yes,No,No,Yes
+9082,235000,Pinar del Rey,85,3,1,No,Yes,No,3,366561,131561,No,Yes,No,No,Yes
+10447,185000,Pradolongo,130,4,2,No,No,No,6,315332,130332,No,No,No,No,Yes
+7608,179000,Almendrales,88,3,2,No,Yes,No,3,309045,130045,No,Yes,No,No,Yes
+1940,1690000,Palacio,320,1,3,Yes,Yes,No,0,1820000,130000,No,No,No,No,Yes
+9960,269900,Arcos,110,3,2,No,Yes,No,2,398825,128925,No,Yes,No,No,Yes
+10443,142000,Orcasitas,99,4,2,No,No,No,5,270863,128863,No,No,No,No,Yes
+11623,249000,Aluche,97,1,1,No,Yes,No,0,377728,128728,Yes,No,No,No,Yes
+5553,164000,Ventas,60,3,1,No,Yes,No,3,292343,128343,No,No,No,No,No
+4508,650000,Cortes,115,3,3,Yes,Yes,No,1,777695,127695,No,Yes,No,No,Yes
+5554,158000,Ventas,60,3,1,No,Yes,No,3,284517,126517,No,No,No,No,Yes
+2220,232100,Las Acacias,58,2,1,No,Yes,No,1,358309,126209,No,No,No,No,No
+1596,259000,Justicia,36,0,1,No,Yes,No,3,384164,125164,No,No,No,No,No
+3560,395000,Goya,45,2,2,No,Yes,No,3,519424,124424,No,No,No,No,No
+5549,145000,Ventas,53,2,1,No,Yes,No,1,269402,124402,No,No,No,No,Yes
+11281,169000,Palos de Moguer,50,1,1,No,Yes,No,0,291438,122438,No,No,No,No,No
+2642,675000,Guindalera,85,3,3,No,Yes,No,3,797082,122082,No,No,No,No,Yes
+12316,145000,San Diego,78,3,1,No,Yes,No,0,264105,119105,No,No,Yes,No,No
+3449,218000,Fuente del Berro,45,2,1,No,Yes,No,0,337063,119063,No,No,No,No,No
+11257,169000,Buenavista,84,3,1,No,Yes,No,3,288062,119062,No,Yes,No,No,Yes
+11159,170000,Canillas,72,3,1,No,Yes,No,4,288813,118813,No,No,No,No,Yes
+3805,190000,Trafalgar,30,1,1,No,Yes,No,3,307727,117727,No,No,No,No,No
+11203,125000,Buenavista,65,2,1,No,Yes,No,1,242633,117633,No,Yes,No,No,Yes
+5540,180000,Ventas,62,2,1,No,Yes,No,-1,297429,117429,No,No,No,No,Yes
+4607,595000,Cortes,99,2,2,Yes,Yes,No,2,711260,116260,No,No,No,No,Yes
+5813,170000,Palomeras Bajas,99,3,1,No,Yes,No,1,285996,115996,No,No,No,No,Yes
+11205,119500,Las Águilas,65,3,1,No,No,No,3,234978,115478,No,Yes,No,No,Yes
+7419,124000,Puerta Bonita,52,3,1,No,Yes,No,0,238591,114591,No,No,No,No,Yes
+2126,230000,Embajadores,65,3,1,No,Yes,No,1,344003,114003,No,No,No,No,Yes
+7641,152000,Pradolongo,62,3,1,No,Yes,No,4,265590,113590,No,Yes,No,No,No
+7203,165000,Casa de Campo,74,3,1,No,Yes,No,5,278238,113238,No,No,No,No,Yes
+6779,156000,Rejas,46,1,1,No,No,Yes,2,268954,112954,Yes,No,No,No,Yes
+4883,250000,Embajadores,71,0,1,No,Yes,No,4,361066,111066,No,No,No,No,No
+7755,130000,Moscardó,59,2,1,No,Yes,No,2,240927,110927,No,No,No,No,Yes
+10214,145000,Berruguete,38,1,1,No,Yes,No,1,254822,109822,No,No,No,No,Yes
+2218,192100,Las Acacias,57,3,1,No,Yes,No,4,300502,108402,No,No,No,No,No
+11663,169900,Aluche,77,2,1,No,Yes,No,4,277422,107522,No,Yes,No,No,Yes
+7293,115000,San Isidro,49,2,1,No,Yes,No,1,222469,107469,No,No,No,No,Yes
+760,475000,Prosperidad,70,2,1,Yes,Yes,No,5,581492,106492,No,Yes,No,No,Yes
+3027,145000,Casa de Campo,55,2,1,No,Yes,No,-1,251456,106456,No,No,No,No,No
+12382,290000,Cuatro Vientos,103,2,2,No,No,Yes,1,396112,106112,Yes,No,No,No,Yes
+16,775000,Recoletos,68,1,1,Yes,Yes,No,2,880870,105870,No,No,No,No,Yes
+1186,399000,Universidad,70,1,1,No,Yes,No,2,504250,105250,No,No,No,No,Yes
+634,275000,Prosperidad,46,1,1,No,Yes,No,4,380148,105148,No,Yes,No,No,Yes
+7624,129000,Zofío,64,3,1,No,Yes,No,2,234099,105099,No,No,No,No,Yes
+6527,125000,San Cristóbal,80,3,1,No,Yes,No,6,229841,104841,No,No,No,No,Yes
+4176,153000,Puerta del Ángel,66,3,1,No,Yes,No,0,257750,104750,No,No,No,No,No
+10236,189000,Bellas Vistas,56,2,1,No,Yes,No,1,293226,104226,No,No,No,No,Yes
+10933,120000,Canillas,32,1,1,No,Yes,No,0,224114,104114,No,No,No,No,Yes
+7597,125000,Pradolongo,70,3,1,No,Yes,No,2,228125,103125,No,Yes,No,No,Yes
+5757,200000,Quintana,76,3,1,No,Yes,No,1,302600,102600,No,No,No,No,Yes
+4773,212000,Sol,44,0,1,No,Yes,No,3,313897,101897,No,No,No,No,No
+6624,130000,Butarque,74,3,1,No,Yes,No,0,231445,101445,No,No,No,No,No
+10200,159000,Berruguete,51,2,1,No,Yes,No,3,260382,101382,No,No,No,No,Yes
+7455,124900,Puerta Bonita,70,3,1,No,Yes,No,3,226113,101213,No,Yes,No,No,Yes
+4058,160000,Puerta del Ángel,65,3,1,No,Yes,No,1,261033,101033,No,No,No,No,Yes
+8902,162000,Casco Histórico de Vicálvaro,77,3,1,No,Yes,No,1,262240,100240,No,Yes,No,No,Yes
+764,1500000,El Viso,234,4,4,No,Yes,No,2,1600000,100000,Yes,No,No,No,Yes
+7392,142000,Puerta Bonita,64,3,1,No,Yes,No,4,241101,99101,No,Yes,No,No,Yes
+6521,128000,Los Rosales,71,3,1,No,Yes,No,1,227082,99082,No,Yes,No,No,Yes
+6599,217033,Butarque,103,3,2,No,No,Yes,1,316101,99068,Yes,Yes,No,No,Yes
+6065,180000,San Isidro,58,2,1,No,Yes,No,0,278983,98983,No,No,Yes,No,No
+1635,169000,Universidad,56,0,1,No,Yes,No,0,267056,98056,No,No,No,No,Yes
+8851,167300,Casco Histórico de Vicálvaro,50,1,1,No,Yes,No,1,265047,97747,No,No,No,No,Yes
+3846,295000,Trafalgar,62,1,1,No,Yes,No,0,392292,97292,No,Yes,No,No,No
+7609,133000,Zofío,52,2,1,No,Yes,No,3,229692,96692,No,No,No,No,Yes
+8881,104000,Ambroz,51,2,1,No,Yes,No,1,199865,95865,No,Yes,No,No,Yes
+7451,117000,Puerta Bonita,60,1,1,No,Yes,No,0,212859,95859,No,Yes,No,No,Yes
+11494,149000,La Chopera,41,0,1,No,Yes,No,1,244577,95577,No,No,No,No,No
+9596,227000,Valdezarza,89,3,1,No,Yes,No,1,322067,95067,No,Yes,No,No,Yes
+5595,175000,Pueblo Nuevo,83,3,1,No,Yes,No,1,269027,94027,No,Yes,No,No,Yes
+7629,129000,Moscardó,65,3,1,No,Yes,No,6,222243,93243,No,Yes,No,No,Yes
+7234,185000,Aluche,80,4,1,No,Yes,No,0,277666,92666,No,No,No,No,Yes
+8759,110000,Santa Eugenia,63,3,1,No,Yes,No,0,202592,92592,No,No,No,No,No
+7346,136000,Abrantes,66,3,1,No,Yes,No,3,228000,92000,No,Yes,No,No,Yes
+11223,109000,Las Águilas,69,3,1,No,Yes,No,0,200695,91695,No,No,No,No,Yes
+8403,180000,Almenara,56,1,1,No,Yes,No,1,271185,91185,No,No,No,No,Yes
+5819,138000,Palomeras Bajas,78,3,1,No,Yes,No,2,228699,90699,No,Yes,No,No,Yes
+250,1300000,Castellana,227,4,4,Yes,Yes,No,1,1390000,90000,No,Yes,No,No,Yes
+9006,189000,Pinar del Rey,52,2,1,No,Yes,No,5,278947,89947,No,No,No,No,Yes
+7447,135000,Abrantes,70,3,1,No,Yes,No,3,224627,89627,No,Yes,No,No,Yes
+8739,182400,Casco Histórico de Vallecas,116,3,2,No,Yes,No,0,271464,89064,No,Yes,No,No,Yes
+8848,168000,Casco Histórico de Vicálvaro,77,3,2,No,Yes,No,1,256808,88808,No,No,No,No,Yes
+6329,360000,Cuatro Caminos,96,4,2,No,Yes,No,0,448115,88115,No,No,No,No,Yes
+8844,125500,Casco Histórico de Vicálvaro,60,2,1,No,Yes,No,1,213397,87897,No,No,No,No,No
+10602,107000,San Fermín,65,2,1,No,Yes,No,0,193707,86707,No,No,No,No,No
+8355,159000,Peña Grande,55,2,1,No,Yes,No,0,244784,85784,No,No,No,No,Yes
+7467,92000,Puerta Bonita,48,2,1,No,Yes,No,0,177406,85406,No,No,No,No,Yes
+7446,131000,Vista Alegre,65,3,1,No,Yes,No,4,215475,84475,No,No,No,No,No
+819,720000,Almagro,115,2,2,Yes,Yes,No,4,803758,83758,No,Yes,No,No,Yes
+2906,456490,Pacífico,94,2,2,No,Yes,No,5,539702,83212,No,No,No,No,No
+2113,113000,Las Acacias,29,1,1,No,Yes,No,0,195983,82983,No,No,No,No,No
+11479,370000,Delicias,113,4,2,No,Yes,No,1,452626,82626,No,Yes,No,No,Yes
+5558,279000,Pueblo Nuevo,70,2,1,No,Yes,No,3,361521,82521,Yes,No,No,No,Yes
+11973,272049,Casco Histórico de Vallecas,105,3,2,No,Yes,Yes,0,354408,82359,Yes,Yes,No,Yes,Yes
+7438,134000,Abrantes,89,3,1,No,Yes,No,-1,216221,82221,No,No,No,No,Yes
+10931,350000,Canillas,122,3,1,No,Yes,No,2,431947,81947,Yes,Yes,No,No,Yes
+1795,295000,Justicia,56,0,1,No,Yes,No,4,376622,81622,No,No,No,No,Yes
+3263,875000,Recoletos,144,2,3,Yes,Yes,No,5,956469,81469,No,Yes,No,No,Yes
+8809,97000,Ambroz,52,2,1,No,Yes,No,0,178342,81342,No,Yes,No,No,Yes
+4973,490000,Pacífico,127,3,2,No,Yes,No,3,570850,80850,No,No,No,No,Yes
+5985,185000,Comillas,70,2,1,No,Yes,No,1,265826,80826,No,No,No,No,No
+6622,106500,San Andrés,64,2,1,No,Yes,No,0,187234,80734,No,No,No,No,No
+6651,103000,San Andrés,67,3,1,No,Yes,No,0,183732,80732,No,No,No,No,No
+1418,1045000,Justicia,146,4,3,Yes,Yes,No,2,1125000,80000,No,No,No,No,Yes
+8766,118500,Casco Histórico de Vallecas,52,2,1,No,Yes,No,3,198388,79888,No,No,No,No,Yes
+11643,169000,Lucero,76,3,1,No,Yes,No,0,248055,79055,No,No,No,No,Yes
+4067,150000,Puerta del Ángel,72,3,1,No,Yes,No,1,227175,77175,No,Yes,No,No,Yes
+10120,120000,Palomeras Sureste,64,2,1,No,Yes,No,1,197163,77163,No,Yes,No,No,Yes
+8879,129000,Casco Histórico de Vicálvaro,63,3,1,No,Yes,No,2,206004,77004,No,No,No,No,Yes
+6654,80000,Butarque,61,3,1,No,Yes,No,1,156985,76985,No,Yes,No,No,Yes
+8772,340000,Palomeras Sureste,118,3,2,No,Yes,Yes,8,416664,76664,No,Yes,No,No,Yes
+7480,152000,Abrantes,90,3,1,No,Yes,No,4,228547,76547,No,Yes,No,No,Yes
+11335,148000,Delicias,44,2,1,No,Yes,No,2,224213,76213,No,No,No,No,No
+12356,169000,Buenavista,48,1,1,No,Yes,No,3,244981,75981,No,Yes,No,No,Yes
+8910,129500,Ambroz,62,3,1,No,Yes,No,1,205417,75917,No,Yes,No,No,Yes
+7800,110000,Almendrales,60,3,1,No,Yes,No,2,185743,75743,No,No,No,No,Yes
+7384,136000,Vista Alegre,64,3,1,No,Yes,No,3,211720,75720,No,Yes,No,No,Yes
+2099,215000,Palacio,64,1,1,No,Yes,No,0,290651,75651,No,No,No,No,Yes
+10559,75500,Los Rosales,39,1,1,No,Yes,No,0,150285,74785,No,No,No,No,Yes
+5984,106000,Opañel,53,2,1,No,Yes,No,4,180467,74467,No,No,No,No,Yes
+10599,99000,Los Rosales,55,2,1,No,Yes,No,4,173225,74225,No,Yes,No,No,Yes
+1292,430000,Trafalgar,68,2,1,No,Yes,No,4,503346,73346,No,No,No,No,No
+7551,80000,Vista Alegre,60,4,2,No,Yes,No,0,153223,73223,No,Yes,No,No,Yes
+6664,91000,San Cristóbal,62,3,1,No,Yes,No,1,163721,72721,No,No,No,No,Yes
+1382,535000,Palacio,80,2,1,Yes,Yes,No,4,607447,72447,No,No,No,No,Yes
+7121,265000,Valdemarín,58,1,1,No,No,Yes,1,337039,72039,No,No,No,No,Yes
+5622,180000,Pueblo Nuevo,139,1,1,No,Yes,No,0,251465,71465,No,No,No,No,Yes
+5973,295000,San Isidro,85,3,2,No,Yes,No,2,365905,70905,No,Yes,No,No,Yes
+11688,209000,Aluche,80,3,1,No,Yes,No,3,279714,70714,Yes,Yes,No,No,Yes
+2890,450000,Ibiza,121,4,2,No,Yes,No,1,519596,69596,No,No,No,No,No
+6490,122900,Los Ángeles,92,3,2,No,Yes,No,2,192076,69176,No,Yes,No,No,Yes
+6497,123794,San Andrés,62,1,1,No,Yes,No,2,192463,68669,Yes,No,No,No,Yes
+4452,160000,Embajadores,43,0,1,No,Yes,No,3,227655,67655,No,No,No,No,Yes
+7347,198998,Vista Alegre,78,2,1,No,Yes,No,1,266274,67276,No,Yes,No,No,Yes
+8893,135000,Ambroz,65,3,1,No,Yes,No,3,201851,66851,No,Yes,No,No,Yes
+6062,135000,Comillas,66,3,1,No,Yes,No,3,201808,66808,No,No,No,No,Yes
+10533,126000,Los Ángeles,77,3,1,No,Yes,No,3,192741,66741,No,Yes,No,No,Yes
+4069,180000,Puerta del Ángel,80,3,1,No,Yes,No,3,246322,66322,No,Yes,No,No,Yes
+6711,86000,San Andrés,52,1,1,No,Yes,No,0,152246,66246,No,No,No,No,No
+6663,94900,San Cristóbal,73,3,1,No,Yes,No,2,161019,66119,No,Yes,No,No,Yes
+10217,149995,Bellas Vistas,55,3,1,No,Yes,No,3,216078,66083,No,No,No,No,No
+1249,560000,Universidad,129,4,2,No,Yes,No,1,625964,65964,No,No,No,No,Yes
+7568,160000,Abrantes,73,3,1,No,Yes,No,0,225933,65933,No,No,No,No,Yes
+7365,250000,Puerta Bonita,102,3,2,No,Yes,Yes,3,314375,64375,No,Yes,No,No,Yes
+10330,229000,Berruguete,61,1,1,No,Yes,No,2,293041,64041,No,No,No,No,No
+4345,665000,Embajadores,181,3,2,Yes,Yes,No,2,728935,63935,No,No,No,No,Yes
+9502,164000,Peña Grande,72,3,1,No,Yes,No,2,227126,63126,No,Yes,No,No,Yes
+5162,145000,Gaztambide,40,1,1,No,Yes,No,0,207186,62186,No,No,No,No,Yes
+7730,87000,Pradolongo,40,2,1,No,Yes,No,0,148993,61993,No,No,No,No,No
+6045,140000,Opañel,60,2,1,No,Yes,No,0,201661,61661,No,No,No,No,Yes
+7495,146500,Vista Alegre,67,2,1,No,Yes,No,0,207678,61178,No,No,No,No,No
+5602,239500,Pueblo Nuevo,98,3,1,No,Yes,No,6,300549,61049,No,Yes,No,No,Yes
+6489,99900,Los Rosales,68,2,1,No,Yes,No,1,160450,60550,No,Yes,No,No,No
+4061,199000,Lucero,92,3,1,No,Yes,No,2,259500,60500,No,No,No,No,Yes
+9053,198000,Pinar del Rey,72,3,1,No,Yes,No,2,257968,59968,No,Yes,No,No,Yes
+7636,235900,La Chopera,70,2,1,No,Yes,No,2,295750,59850,No,No,No,No,No
+6678,78900,Los Rosales,63,3,1,No,Yes,No,0,138191,59291,No,No,No,No,Yes
+4181,258000,Puerta del Ángel,55,1,1,No,Yes,No,2,317155,59155,No,Yes,No,No,Yes
+7395,129950,Abrantes,72,3,1,No,Yes,No,4,188877,58927,No,Yes,No,No,Yes
+5879,140000,Palomeras Sureste,81,2,1,No,Yes,No,5,198736,58736,No,No,No,No,Yes
+9105,220000,Valdefuentes,82,2,1,No,Yes,No,0,278622,58622,No,Yes,No,No,Yes
+6167,134000,Opañel,55,2,1,No,Yes,No,3,191649,57649,No,No,No,No,No
+8978,155000,Pinar del Rey,56,2,1,No,Yes,No,4,211911,56911,No,No,No,No,Yes
+10667,549000,Alameda de Osuna,121,3,2,Yes,Yes,Yes,4,605069,56069,Yes,No,No,No,Yes
+5145,360000,Gaztambide,71,1,1,No,Yes,No,4,416044,56044,No,No,No,No,No
+7219,249900,Las Águilas,141,3,2,No,Yes,No,6,305852,55952,Yes,No,No,No,Yes
+7537,130000,Vista Alegre,62,2,1,No,Yes,No,1,185195,55195,No,No,No,No,Yes
+11375,337000,La Chopera,104,3,1,No,Yes,No,1,391971,54971,No,Yes,No,No,Yes
+8992,249000,Pinar del Rey,79,2,1,No,Yes,No,0,303375,54375,No,No,No,No,Yes
+7492,119000,Vista Alegre,70,3,2,No,Yes,No,0,172520,53520,No,Yes,No,No,No
+2736,740000,Castellana,108,2,2,No,Yes,No,3,793358,53358,No,No,No,No,Yes
+4269,135000,Embajadores,33,1,1,No,Yes,No,1,187784,52784,No,No,No,No,No
+3532,660000,Goya,125,2,2,No,Yes,No,1,712334,52334,No,No,No,No,Yes
+2124,215270,Las Acacias,47,0,1,No,Yes,No,2,267348,52078,No,No,No,No,Yes
+6438,135000,Cuatro Caminos,24,0,1,No,Yes,No,3,187071,52071,No,No,No,No,Yes
+8392,179000,Peña Grande,60,1,1,No,Yes,No,10,230884,51884,No,No,No,No,Yes
+6671,88000,San Andrés,56,2,1,No,Yes,No,0,139876,51876,No,No,No,No,Yes
+8627,122000,Pavones,64,3,1,No,Yes,No,3,173498,51498,No,No,No,No,Yes
+6530,160000,San Andrés,94,3,1,No,Yes,No,2,211432,51432,No,No,No,No,Yes
+8905,149000,Casco Histórico de Vicálvaro,67,3,1,No,Yes,No,0,200384,51384,No,No,No,No,Yes
+4578,198000,Embajadores,63,1,1,No,Yes,No,1,249184,51184,No,No,No,No,Yes
+5695,139990,Pueblo Nuevo,66,2,1,No,Yes,No,4,191142,51152,No,Yes,No,No,Yes
+1069,1599000,Almagro,172,2,3,Yes,Yes,No,2,1650000,51000,No,No,No,No,Yes
+7230,229900,Campamento,77,2,1,No,Yes,No,1,280759,50859,No,No,No,No,Yes
+6618,134000,San Andrés,95,3,1,No,Yes,No,0,184827,50827,No,No,No,No,No
+7470,170000,Vista Alegre,65,2,1,No,Yes,No,2,220809,50809,No,Yes,No,No,No
+6552,122500,San Cristóbal,99,3,2,No,Yes,No,4,173198,50698,No,No,No,No,Yes
+970,590000,Ríos Rosas,109,3,2,No,Yes,No,1,640613,50613,No,No,No,No,Yes
+8464,239000,Valdeacederas,86,2,1,No,Yes,No,0,288885,49885,No,No,No,No,Yes
+10474,163000,Orcasitas,103,3,2,No,No,No,2,212678,49678,No,Yes,No,No,Yes
+6493,86000,Butarque,51,2,1,No,No,No,2,135656,49656,No,Yes,No,No,No
+5399,423000,Hispanoamérica,97,3,1,No,Yes,No,2,472606,49606,No,Yes,No,No,No
+1806,198000,Universidad,36,1,1,No,Yes,No,2,247399,49399,No,No,No,No,No
+5709,169000,Ventas,74,3,1,No,Yes,No,4,217973,48973,Yes,Yes,No,No,Yes
+6576,120000,Los Rosales,73,3,1,No,Yes,No,1,167914,47914,No,No,No,No,No
+11197,195000,Cuatro Vientos,85,3,1,No,No,No,3,242571,47571,No,No,No,No,Yes
+5572,280000,Ventas,88,3,1,No,Yes,No,1,327456,47456,No,No,No,No,Yes
+9263,150000,La Paz,60,1,1,No,Yes,No,-1,197425,47425,No,No,No,No,Yes
+4268,285000,Embajadores,76,3,1,No,Yes,No,1,332088,47088,No,No,No,No,Yes
+6814,139900,Rejas,62,1,1,No,No,Yes,2,186739,46839,No,No,No,No,Yes
+7217,115000,Campamento,65,2,1,No,Yes,No,2,161539,46539,No,Yes,No,No,Yes
+5522,156900,Ventas,88,3,1,No,Yes,No,4,203431,46531,No,No,No,No,Yes
+5965,170000,Comillas,85,4,1,No,Yes,No,4,216393,46393,No,Yes,No,No,Yes
+7385,123000,Abrantes,65,2,1,No,Yes,No,3,169130,46130,No,Yes,No,No,Yes
+6540,125000,San Andrés,80,3,2,No,Yes,No,2,170931,45931,No,Yes,No,No,Yes
+6451,157000,Berruguete,36,1,1,No,Yes,No,1,202922,45922,No,No,No,No,No
+8824,107500,Casco Histórico de Vicálvaro,63,2,1,No,Yes,No,0,153106,45606,No,Yes,No,No,No
+5678,146000,Pueblo Nuevo,57,2,1,No,Yes,No,3,191600,45600,No,Yes,No,No,Yes
+7288,110890,Puerta Bonita,60,2,1,No,Yes,No,2,155655,44765,No,No,No,No,No
+2930,790000,Pacífico,225,4,2,Yes,Yes,Yes,5,834763,44763,No,Yes,No,No,Yes
+11336,210000,Palos de Moguer,50,2,1,No,Yes,No,4,254629,44629,No,No,No,No,No
+9043,160000,Pinar del Rey,60,2,1,No,Yes,No,3,204625,44625,No,Yes,No,No,Yes
+7311,118000,Puerta Bonita,64,2,1,No,Yes,No,4,162510,44510,No,Yes,No,No,Yes
+7752,172000,Moscardó,91,3,1,No,Yes,No,1,215265,43265,No,No,No,No,Yes
+7779,94000,Zofío,56,2,1,No,Yes,No,0,136881,42881,No,No,No,No,Yes
+7722,90000,Almendrales,45,2,1,No,Yes,No,0,132825,42825,No,No,No,No,Yes
+11258,149000,Buenavista,81,3,1,No,Yes,No,2,191608,42608,No,No,No,No,Yes
+6413,130000,Cuatro Caminos,57,0,1,No,Yes,No,0,172075,42075,No,No,No,No,Yes
+10299,117500,Bellas Vistas,43,2,1,No,Yes,No,2,159562,42062,No,No,No,No,No
+5168,590000,Gaztambide,130,3,2,Yes,Yes,No,1,631678,41678,No,No,No,No,Yes
+6690,115500,San Andrés,76,3,1,No,Yes,No,0,156953,41453,No,No,No,No,No
+11143,135000,Pinar del Rey,50,3,1,No,Yes,No,0,176252,41252,No,No,No,No,Yes
+10477,119900,Los Ángeles,58,2,1,No,Yes,No,0,161099,41199,No,No,No,No,Yes
+7340,108000,Puerta Bonita,56,3,1,No,Yes,No,1,149038,41038,No,No,No,No,Yes
+9286,154260,Valverde,70,2,1,No,Yes,No,4,195042,40782,No,No,No,No,Yes
+7335,126000,Opañel,53,2,2,No,Yes,No,3,166652,40652,No,No,No,No,Yes
+4443,165000,Embajadores,46,1,1,No,Yes,No,3,205562,40562,No,No,No,No,No
+7759,110000,Pradolongo,56,2,1,No,Yes,No,3,150201,40201,No,Yes,No,No,Yes
+10269,180000,Berruguete,54,1,1,No,Yes,No,1,219763,39763,No,No,No,No,Yes
+1045,510000,Gaztambide,107,4,1,No,Yes,No,2,549179,39179,No,No,No,No,Yes
+1636,207000,Universidad,59,1,1,No,Yes,No,0,245500,38500,No,No,No,No,Yes
+6558,92000,Los Rosales,61,2,1,No,Yes,No,2,129849,37849,No,Yes,No,No,Yes
+11146,215000,Piovera,67,3,1,No,Yes,No,4,252707,37707,No,Yes,No,No,Yes
+8911,150000,Casco Histórico de Vicálvaro,70,3,1,No,Yes,No,2,187603,37603,No,Yes,No,No,Yes
+8913,139000,Ambroz,60,2,1,No,Yes,No,2,174175,35175,No,Yes,No,No,Yes
+11517,150000,Palos de Moguer,46,2,1,No,Yes,No,0,185138,35138,No,No,No,No,No
+1589,295000,Universidad,38,1,1,No,Yes,No,1,330101,35101,Yes,No,No,No,Yes
+7386,151800,Vista Alegre,72,3,1,No,Yes,No,2,186824,35024,No,Yes,No,No,Yes
+5197,345000,Universidad,63,1,1,No,Yes,No,2,379980,34980,No,Yes,No,No,No
+8866,191800,Casco Histórico de Vicálvaro,55,2,1,No,Yes,No,2,226589,34789,No,No,No,No,Yes
+7490,119500,Puerta Bonita,70,3,1,No,Yes,No,-1,154099,34599,No,No,No,No,No
+12364,155850,Cuatro Vientos,75,1,2,No,No,No,1,190001,34151,Yes,No,No,No,Yes
+9829,199900,El Salvador,66,2,1,No,Yes,No,1,233936,34036,No,Yes,No,No,Yes
+8604,298000,Marroquina,92,3,2,No,Yes,No,7,331757,33757,No,No,No,No,Yes
+7520,123000,Puerta Bonita,61,2,1,No,Yes,No,2,155318,32318,No,Yes,No,No,Yes
+7402,200000,Abrantes,120,4,2,No,Yes,No,1,232178,32178,No,Yes,No,No,Yes
+10376,261900,Berruguete,72,1,1,No,Yes,No,0,293891,31991,Yes,No,No,No,Yes
+5684,130000,Ventas,62,3,1,No,Yes,No,1,161441,31441,No,No,No,No,Yes
+10229,161700,Valdeacederas,37,1,1,No,Yes,No,0,192613,30913,No,No,No,No,Yes
+7406,135000,Vista Alegre,55,2,1,No,Yes,No,2,165429,30429,No,Yes,No,No,Yes
+5866,150000,Portazgo,69,3,1,No,Yes,No,2,180292,30292,No,No,No,No,Yes
+1184,1650000,Justicia,187,3,2,No,Yes,No,6,1680000,30000,No,No,No,No,Yes
+11349,270000,Palos de Moguer,100,3,2,No,Yes,No,0,299725,29725,No,No,No,No,Yes
+10570,129000,Los Ángeles,75,3,1,No,Yes,No,0,158268,29268,No,No,No,No,No
+3524,548000,Ibiza,90,3,2,No,Yes,No,1,577065,29065,No,No,No,No,Yes
+5654,155000,Pueblo Nuevo,70,2,1,No,Yes,No,1,183795,28795,No,Yes,No,No,Yes
+7413,130000,Vista Alegre,64,3,1,No,Yes,No,2,158788,28788,No,No,No,No,Yes
+7143,525000,Aravaca,137,3,2,No,No,Yes,2,553135,28135,Yes,No,No,No,Yes
+7655,230000,Moscardó,68,2,1,No,Yes,No,6,258021,28021,No,No,No,No,Yes
+1129,540000,Almagro,79,2,1,Yes,Yes,No,2,567923,27923,No,No,No,No,Yes
+8547,310000,Fontarrón,226,5,3,No,Yes,No,3,337658,27658,No,No,No,No,Yes
+10593,165000,Los Ángeles,102,4,1,No,Yes,No,7,192180,27180,No,Yes,No,No,Yes
+8333,100000,Lista,50,0,1,No,Yes,No,0,126896,26896,No,No,No,No,No
+4277,395000,Embajadores,88,2,1,No,Yes,No,3,421649,26649,No,No,No,No,Yes
+1804,220000,Universidad,51,2,2,No,Yes,No,0,245707,25707,No,No,No,No,Yes
+6676,117000,San Andrés,85,3,1,No,Yes,No,0,142671,25671,No,No,No,No,No
+10560,93500,Los Rosales,56,2,1,No,Yes,No,0,119141,25641,No,No,No,No,No
+7266,140000,Campamento,66,3,1,No,Yes,No,1,165259,25259,No,Yes,No,No,Yes
+4618,580000,Embajadores,119,1,1,Yes,Yes,Yes,1,605094,25094,No,No,No,No,Yes
+2585,1820000,Castellana,264,4,3,Yes,Yes,No,4,1844500,24500,No,Yes,No,No,Yes
+2512,830000,Lista,141,4,2,No,Yes,No,1,853965,23965,No,Yes,No,No,No
+7287,139900,Abrantes,85,3,1,No,Yes,No,1,163531,23631,No,Yes,No,No,Yes
+7513,119000,Puerta Bonita,56,3,1,No,Yes,No,2,142538,23538,No,Yes,No,No,Yes
+8845,137500,Casco Histórico de Vicálvaro,42,0,1,No,Yes,No,1,161032,23532,No,No,No,No,Yes
+6525,144500,San Andrés,93,3,2,No,Yes,No,1,167569,23069,No,No,No,No,Yes
+6632,143000,San Andrés,86,2,1,No,No,No,11,165939,22939,No,Yes,No,No,Yes
+7572,148500,Puerta Bonita,92,3,1,No,Yes,No,0,171413,22913,No,No,No,No,No
+6446,180000,Cuatro Caminos,39,1,1,No,Yes,No,0,202079,22079,No,No,No,No,Yes
+5631,124500,Pueblo Nuevo,41,0,1,No,Yes,No,0,146394,21894,No,No,No,No,Yes
+3442,395000,Ibiza,50,2,2,No,Yes,No,3,416780,21780,No,No,No,No,No
+10596,110500,Los Ángeles,47,2,1,No,Yes,No,0,132248,21748,No,No,No,No,No
+7531,185000,Vista Alegre,69,3,1,No,Yes,No,1,206554,21554,No,Yes,No,No,Yes
+751,249000,Ciudad Jardín,55,0,1,No,Yes,No,2,270373,21373,No,No,No,No,Yes
+3552,375000,Ibiza,54,2,1,No,Yes,No,3,396146,21146,No,No,No,No,Yes
+8091,174000,Guindalera,42,1,1,No,Yes,No,0,195132,21132,No,No,No,No,No
+8502,105000,La Paz,41,1,1,No,Yes,No,0,126131,21131,No,No,No,No,Yes
+4179,193200,Puerta del Ángel,74,3,1,No,Yes,No,2,214215,21015,No,Yes,No,No,Yes
+5304,235000,Gaztambide,33,1,1,No,Yes,No,3,255706,20706,No,No,No,No,No
+10320,175000,Berruguete,61,3,1,No,Yes,No,4,195641,20641,No,No,No,No,Yes
+5451,185000,Nueva España,48,0,1,No,Yes,No,0,205379,20379,No,No,No,No,No
+6612,130000,Los Ángeles,60,3,2,No,Yes,No,5,150347,20347,No,Yes,No,No,Yes
+8843,159500,Casco Histórico de Vicálvaro,76,3,1,No,Yes,No,3,179837,20337,No,Yes,No,No,Yes
+9098,210000,Apóstol Santiago,92,4,1,No,Yes,No,0,230077,20077,No,No,No,No,Yes
+5570,139000,Ventas,60,2,1,No,Yes,No,3,159007,20007,No,Yes,No,No,Yes
+99,1130000,Recoletos,108,2,2,Yes,Yes,No,3,1150000,20000,No,No,No,No,Yes
+7683,119800,Moscardó,85,3,1,No,Yes,No,0,139283,19483,No,No,No,No,No
+5928,155000,San Isidro,117,3,2,No,Yes,No,1,174379,19379,Yes,Yes,No,No,Yes
+10198,149900,Valdezarza,70,3,1,No,Yes,No,3,169024,19124,No,No,No,No,No
+9143,140000,Valverde,53,2,1,No,Yes,No,3,159036,19036,No,Yes,No,No,Yes
+11172,109500,Buenavista,64,2,1,No,Yes,No,1,128391,18891,No,Yes,No,No,Yes
+8622,135000,Media Legua,60,3,1,No,Yes,No,1,153606,18606,No,Yes,No,No,Yes
+7214,108900,Las Águilas,65,2,1,No,Yes,No,3,127199,18299,No,Yes,No,No,Yes
+9368,140000,Peña Grande,83,2,1,No,Yes,No,0,158095,18095,No,No,No,No,Yes
+9108,194500,Pinar del Rey,75,3,1,No,Yes,No,0,211911,17411,No,No,No,No,No
+5383,549000,Hispanoamérica,93,3,1,Yes,Yes,No,3,566389,17389,No,No,No,No,Yes
+8434,119000,Almenara,40,0,1,No,Yes,No,0,136348,17348,No,No,No,No,Yes
+10459,175000,Los Ángeles,90,3,1,No,Yes,No,4,191445,16445,No,Yes,No,No,Yes
+4825,398000,Cortes,85,1,2,No,Yes,No,4,414355,16355,No,No,No,No,Yes
+3950,720000,Ríos Rosas,97,1,1,Yes,Yes,No,-1,736040,16040,Yes,No,No,No,Yes
+6331,135000,Cuatro Caminos,37,1,1,No,Yes,No,2,150295,15295,No,No,No,No,No
+10340,147500,Bellas Vistas,50,2,1,No,Yes,No,0,162592,15092,No,No,No,No,Yes
+1358,390000,Universidad,60,1,1,No,Yes,No,2,405013,15013,Yes,No,No,No,Yes
+8568,141000,Fontarrón,63,2,1,No,Yes,No,0,155920,14920,No,No,No,No,Yes
+7936,135000,Ventas,71,3,1,No,Yes,No,4,149732,14732,No,No,No,No,Yes
+12360,180000,Las Águilas,95,0,2,No,No,No,0,194068,14068,Yes,Yes,No,No,Yes
+10545,129000,Los Ángeles,67,2,1,No,Yes,No,1,142927,13927,No,No,No,No,Yes
+8337,199550,Valdeacederas,57,3,1,No,Yes,No,4,213463,13913,No,No,No,No,Yes
+7242,125000,Campamento,72,2,1,No,Yes,No,3,138779,13779,No,Yes,No,No,Yes
+7260,132700,Campamento,67,3,1,No,Yes,No,1,146150,13450,No,Yes,No,No,Yes
+7501,150000,Vista Alegre,59,1,1,No,Yes,No,2,163119,13119,No,No,No,No,Yes
+11334,269900,Las Acacias,74,3,2,No,Yes,No,2,282948,13048,No,Yes,No,No,No
+8401,220000,Valdeacederas,70,2,1,No,Yes,No,2,232716,12716,No,Yes,No,No,Yes
+7401,141100,Vista Alegre,77,3,1,No,Yes,No,1,153494,12394,No,No,No,No,Yes
+8977,180000,Costillares,74,3,1,No,Yes,No,11,190615,10615,No,No,No,No,Yes
+11316,280000,Palos de Moguer,90,3,1,No,Yes,No,5,290615,10615,No,No,No,No,No
+11116,270000,Pinar del Rey,89,3,1,No,Yes,No,7,280474,10474,No,Yes,No,No,Yes
+10548,165000,San Fermín,108,5,2,No,Yes,No,2,175261,10261,No,Yes,No,No,Yes
+11229,128000,Buenavista,63,3,1,No,Yes,No,0,138018,10018,No,Yes,No,No,Yes
+5526,175000,Pueblo Nuevo,68,3,1,No,Yes,No,1,184798,9798,No,No,No,No,Yes
+7307,162000,Vista Alegre,83,2,1,No,Yes,No,1,171529,9529,No,Yes,No,No,Yes
+2944,435000,Fuente del Berro,95,2,1,No,Yes,No,2,444279,9279,No,No,No,No,Yes
+12340,144000,Entrevías,95,3,1,No,No,No,0,153080,9080,No,No,No,No,No
+4985,300000,Cortes,60,2,1,No,Yes,No,3,309054,9054,Yes,No,No,No,Yes
+8539,139000,Marroquina,54,2,1,No,Yes,No,4,147589,8589,No,No,No,No,Yes
+91,692890,Castellana,96,2,2,No,Yes,No,3,701282,8392,No,No,No,No,No
+8640,235000,Santa Eugenia,90,3,2,No,Yes,No,6,243175,8175,Yes,No,No,No,Yes
+976,420000,Bellas Vistas,84,2,1,No,Yes,No,2,428136,8136,No,No,No,No,No
+6528,94990,San Cristóbal,75,2,1,No,Yes,No,3,102661,7671,No,Yes,No,No,Yes
+10510,110000,Orcasur,75,4,1,No,Yes,No,5,117406,7406,No,No,No,No,No
+11174,135000,Las Águilas,51,2,1,No,Yes,No,0,142248,7248,No,No,No,No,Yes
+7503,128000,Abrantes,78,3,2,No,Yes,No,3,134886,6886,No,Yes,No,No,Yes
+7561,119000,Puerta Bonita,55,2,1,No,Yes,No,2,125479,6479,No,Yes,No,No,Yes
+7353,130000,Puerta Bonita,67,2,1,No,Yes,No,2,135885,5885,No,No,No,No,Yes
+5307,158000,Universidad,29,0,1,No,Yes,No,4,163444,5444,No,No,No,No,Yes
+6643,118000,San Andrés,68,3,1,No,Yes,No,4,123108,5108,No,No,No,No,No
+2469,300000,Lista,60,1,1,No,Yes,No,0,305077,5077,No,Yes,No,No,Yes
+6053,219000,Comillas,103,3,1,No,Yes,No,1,223857,4857,No,Yes,No,No,Yes
+8675,150000,Casco Histórico de Vallecas,116,3,1,No,Yes,No,0,154752,4752,No,Yes,No,No,Yes
+10539,123000,Los Ángeles,66,3,1,No,Yes,No,2,127289,4289,No,No,No,No,Yes
+7726,121000,Pradolongo,60,3,1,No,Yes,No,3,125165,4165,No,No,No,No,Yes
+5507,139900,Pueblo Nuevo,54,2,1,No,Yes,No,0,144050,4150,No,No,No,No,Yes
+6340,165000,Valdezarza,58,2,1,No,Yes,No,2,168913,3913,No,Yes,No,No,Yes
+7876,135000,San Pascual,46,1,1,No,Yes,No,3,138898,3898,No,Yes,No,No,Yes
+10997,154000,Pinar del Rey,54,3,1,No,Yes,No,4,157813,3813,No,No,No,No,Yes
+2253,685000,Las Acacias,117,3,2,Yes,Yes,Yes,4,688776,3776,Yes,No,No,No,Yes
+7510,154900,Vista Alegre,82,3,1,No,Yes,No,2,158553,3653,No,Yes,No,No,Yes
+11218,102500,Puerta Bonita,54,2,1,No,Yes,No,3,105972,3472,No,Yes,No,No,Yes
+5713,139000,Ventas,65,2,1,No,Yes,No,-1,142423,3423,No,No,No,No,Yes
+7048,399000,Aravaca,95,2,1,No,No,No,1,402382,3382,Yes,Yes,No,No,Yes
+8429,199000,Valdeacederas,58,2,1,No,Yes,No,1,202146,3146,No,No,No,No,Yes
+745,875000,El Viso,150,3,3,No,Yes,No,4,878109,3109,No,No,No,No,Yes
+10457,181000,San Fermín,89,3,1,No,Yes,No,2,183730,2730,No,No,No,No,Yes
+6503,122900,San Andrés,67,3,1,No,Yes,No,1,125339,2439,No,Yes,No,No,Yes
+7893,155000,Quintana,69,2,1,No,Yes,No,3,157349,2349,No,No,No,No,Yes
+5745,119000,Pueblo Nuevo,45,1,1,No,Yes,No,0,120491,1491,No,No,No,No,Yes
+4041,590000,Almagro,81,2,2,No,Yes,No,4,591122,1122,No,No,No,No,Yes
+8012,280000,Pueblo Nuevo,80,2,1,No,Yes,No,4,280732,732,No,Yes,No,No,Yes
+12341,216600,Buenavista,90,3,2,No,Yes,No,1,217328,728,Yes,No,No,No,No
+1277,255000,Universidad,63,2,1,No,Yes,No,3,255688,688,No,No,No,No,No
+8628,137000,Pavones,65,2,1,No,Yes,No,3,137469,469,No,No,No,No,Yes
