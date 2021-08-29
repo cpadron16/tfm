@@ -66,7 +66,7 @@ else:
 
 if len(filtro) == 0:
     st.write('Lo siento. No se han encontrado ofertas según sus criterios')
-    image = Image.open('C:/Users/cpadron/Pictures/alert.jpg')
+    image = Image.open('./alert.jpg')
     st.image(image, width=480)
 
 else:
