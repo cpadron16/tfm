@@ -1,4 +1,5 @@
 streamlit==0.87.0
 pandas ==1.0.5
 matplotlib==3.3.3
-PIL==7.2.0
+pip==20.1.1
+pillow==7.2.0
